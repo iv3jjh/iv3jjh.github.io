@@ -1,0 +1,37 @@
+site_name: Laboratorio IV3JJH 🧪
+site_url: https://iv3jjh.github.io/
+repo_url: https://github.com/iv3jjh/iv3jjh.github.io
+repo_name: iv3jjh.github.io
+
+theme:
+  name: material
+  language: it
+  
+  palette: 
+    - scheme: slate 
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Passa alla modalità chiara
+    - scheme: default
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Passa alla modalità scura
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
