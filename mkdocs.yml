@@ -6,7 +6,6 @@ repo_name: iv3jjh.github.io
 theme:
   name: material
   language: it
-  
   palette: 
     - scheme: slate 
       primary: teal
