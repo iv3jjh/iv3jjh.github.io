@@ -17,3 +17,20 @@ source venv/bin/activate
 
 # Installa MkDocs e il tema
 pip install mkdocs mkdocs-material
+
+# Crea un nuovo file .md  dentro docs/
+
+# Aggiungi questa riga a index.md
+- [Titolo del Progetto](nuovo-progetto.md)
+
+# Antemprima locale
+mkdocs serve
+apri il browser su http://127.0.0.1:8000
+
+# Fai il push dei file
+git add .
+git commit -m "..."
+git push
+
+#Fai il deploy del sito
+mkdocs gh-deploy --force
