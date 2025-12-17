@@ -1,4 +1,4 @@
-# Benvenuto nel Laboratorio di IV3JJH 🧪
+# Benvenuto nel Laboratorio di IV3JJH 
 
 Qui raccolgo i miei progetti, le documentazioni e gli esperimenti radio/informatici.
 
