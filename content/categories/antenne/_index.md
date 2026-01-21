@@ -1,6 +1,6 @@
 ---
-title: Software
-description: A description of this category
+title: Antenne
+description: Progetti di autocostruzione di antenne
 image:
 
 # Badge style
