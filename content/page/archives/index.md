@@ -1,6 +1,6 @@
 ---
 title: "Archives"
-date: 2026-03-06
+date: 2026-01-01
 layout: "archives"
 slug: "archives"
 menu:
