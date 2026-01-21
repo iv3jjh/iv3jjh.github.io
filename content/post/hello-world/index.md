@@ -5,9 +5,9 @@ slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - antenne
 tags:
-    - Example Tag
+    - HF
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
