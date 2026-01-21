@@ -2,7 +2,7 @@
 title: Hello World
 description: Welcome to Hugo Theme Stack
 slug: hello-world
-date: 2026-02-01 00:00:00+0000
+date: 2026-01-20 00:00:00+0000
 image: cover.jpg
 categories:
     - antenne
