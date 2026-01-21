@@ -4,9 +4,9 @@ threshold = 60
 toLower = false
 
 [[indices]]
-name = "tags"
+name = "tag"
 weight = 100
 
 [[indices]]
-name = "categories"
+name = "categorie"
 weight = 200
