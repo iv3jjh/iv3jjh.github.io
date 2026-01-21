@@ -79,7 +79,7 @@ enabled = true
 enabled = true
 provider = "disqus"
 
-[comments.disqusjs]
+[comments.disqus]
 shortname = "https-iv3jjh-github-io"
 apiUrl = "https://disqus.skk.moe/disqus/"
 apiKey = "hpHeZcwObMiGruRXy1fGirGYabvYiAuYRsqNN54B6i3mJufw4nYYj9eEMRSynwMT"
