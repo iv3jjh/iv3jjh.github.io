@@ -2,7 +2,7 @@
 title: "Contatti"
 description: "Come contattarmi e info sullo scambio QSL"
 slug: "contatti"
-date: 2024-01-22
+date: 2026-01-22
 image: "qsl-card.jpg" # Se hai una foto della tua QSL, caricala qui!
 comments: false
 
@@ -11,7 +11,7 @@ menu:
         weight: -80
         params:
             icon: contacts # Usa l'icona che abbiamo riparato!
-
+            
 links:
   - title: Email
     description: Per info generali
@@ -22,12 +22,12 @@ links:
     description: Chat veloce
     website: https://t.me/tuonome
     image: brand-telegram
----
+---.
 
 ## 📬 Canali di Comunicazione
 
-Sono sempre felice di scambiare due chiacchiere su **Radio, Linux e Progetti Maker**. 
-Il modo più veloce per raggiungermi è via **Email** o **Telegram**, ma se sei un "vecchia scuola", apprezzo molto anche la posta cartacea.
+Sono sempre felice di scambiare due chiacchiere su **Radio, Antenne, Linux e qualsiasi progetto**. 
+Il modo più veloce per raggiungermi è via **Email** o **Telegram**. Trovi anche le informazioni relative allo scambio delle QSL.
 
 ---
 
@@ -37,12 +37,11 @@ Confermo volentieri tutti i QSO. Ecco le mie preferenze per lo scambio delle car
 
 | Metodo | Stato | Note |
 | :--- | :---: | :--- |
-| **LoTW** | ✅ Preferito | Carico i log ogni settimana. |
+| **Bureau** | ✅ Preferito | Via associazione (ARI).|
 | **eQSL** | ✅ Attivo | Rispondo automaticamente. |
-| **Bureau** | 🐢 Lento | Via associazione (ARI). |
-| **Diretta** | 📬 Disponibile | Nessun contributo necessario (SAE apprezzata). |
+| **Diretta** | 📬 Disponibile | Nessun contributo necessario. |
 
-> **QTH Locator:** JNxxXX  
+> **QTH Locator:** JN65RP  
 > **ITU Zone:** 28 • **CQ Zone:** 15
 
 ---
