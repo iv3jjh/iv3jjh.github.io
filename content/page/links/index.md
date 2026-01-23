@@ -8,7 +8,7 @@ links:
   - title: QRZ
     description: QRZ is the largest database for hamradio.
     website: https://www.qrz.com/db/IV3JJH
-    image: https://s3.amazonaws.com/files.qrz.com/static/qrz/qrz_com.svgz
+    image: https://th.bing.com/th/id/OIP.75JKYCc-lqG11EQ9fsaTnAAAAA?w=138&h=150&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3
 menu:
     main: 
         weight: 4
