@@ -7,7 +7,7 @@ comments: false
 
 menu:
     main:
-        weight: -80
+        weight: 5
         params:
             icon: contacts # Usa l'icona che abbiamo riparato!
             
