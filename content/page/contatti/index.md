@@ -2,7 +2,6 @@
 title: "Contatti"
 description: "Come contattarmi e info sullo scambio QSL"
 slug: "contatti"
-date: 2026-01-22
 image: "qsl-card.jpg" # Se hai una foto della tua QSL, caricala qui!
 comments: false
 
