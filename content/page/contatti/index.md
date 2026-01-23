@@ -40,7 +40,7 @@ Confermo volentieri tutti i QSO. Ecco le mie preferenze per lo scambio delle car
 | **eQSL** | ✅ Attivo | Rispondo automaticamente. |
 | **Diretta** | 📬 Disponibile | Nessun contributo necessario. |
 
-> **QTH Locator:** JN65RP  
+> **QTH Locator:** JN65RT  
 > **ITU Zone:** 28 • **CQ Zone:** 15
 
 ---
