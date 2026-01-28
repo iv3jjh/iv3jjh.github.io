@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog di IV3JJH - Diaro di un giovane radioamatore</title><link>https://iv3jjh.github.io/</link><description>Recent content on Blog di IV3JJH - Diaro di un giovane radioamatore</description><generator>Hugo -- gohugo.io</generator><language>it-it</language><lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://iv3jjh.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://iv3jjh.github.io/p/hello-world/</link><pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate><guid>https://iv3jjh.github.io/p/hello-world/</guid><description>&lt;img src="https://iv3jjh.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+&lt;p&gt;For more information about this theme, check the documentation: &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+&gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want a site like this? Check out &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+&gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+&gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Archivio</title><link>https://iv3jjh.github.io/archives/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://iv3jjh.github.io/archives/</guid><description/></item><item><title>Cerca</title><link>https://iv3jjh.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iv3jjh.github.io/search/</guid><description/></item><item><title>Contatti</title><link>https://iv3jjh.github.io/contatti/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iv3jjh.github.io/contatti/</guid><description>&lt;img src="https://iv3jjh.github.io/qsl-card.jpg" alt="Featured image of post Contatti" /&gt;&lt;p&gt;.&lt;/p&gt;
+&lt;h2 id="-canali-di-comunicazione"&gt;📬 Canali di Comunicazione
+&lt;/h2&gt;&lt;p&gt;Sono sempre felice di scambiare due chiacchiere su &lt;strong&gt;Radio, Antenne, Linux e qualsiasi progetto&lt;/strong&gt;.
+Il modo più veloce per raggiungermi è via &lt;strong&gt;Email&lt;/strong&gt; o &lt;strong&gt;Telegram&lt;/strong&gt;. Trovi anche le informazioni relative allo scambio delle QSL.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-politica-qsl-per-radioamatori"&gt;📡 Politica QSL (Per Radioamatori)
+&lt;/h2&gt;&lt;p&gt;Confermo volentieri tutti i QSO. Ecco le mie preferenze per lo scambio delle cartoline:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left"&gt;Metodo&lt;/th&gt;
+&lt;th style="text-align: center"&gt;Stato&lt;/th&gt;
+&lt;th style="text-align: left"&gt;Note&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Bureau&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;✅ Preferito&lt;/td&gt;
+&lt;td style="text-align: left"&gt;Via associazione (ARI).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;eQSL&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;✅ Attivo&lt;/td&gt;
+&lt;td style="text-align: left"&gt;Rispondo automaticamente.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;Diretta&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;📬 Disponibile&lt;/td&gt;
+&lt;td style="text-align: left"&gt;Nessun contributo necessario.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;QTH Locator:&lt;/strong&gt; JN65RT&lt;br&gt;
+&lt;strong&gt;ITU Zone:&lt;/strong&gt; 28 • &lt;strong&gt;CQ Zone:&lt;/strong&gt; 15&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="-scrivimi-direttamente-da-qui"&gt;📝 Scrivimi direttamente da qui
+&lt;/h2&gt;&lt;p&gt;Se non vuoi aprire il client di posta, usa questo modulo. Il messaggio arriverà direttamente alla mia email.&lt;/p&gt;
+&lt;form action="https://formspree.io/f/xrekzzye" method="POST" class="contact-form"&gt;
+&lt;label&gt;
+Il tuo nome:
+&lt;input type="text" name="name" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;"&gt;
+&lt;/label&gt;
+&lt;label&gt;
+La tua email:
+&lt;input type="email" name="email" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;"&gt;
+&lt;/label&gt;
+&lt;label&gt;
+Messaggio:
+&lt;textarea name="message" rows="5" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;"&gt;&lt;/textarea&gt;
+&lt;/label&gt;
+&lt;button type="submit" style="background-color: var(--card-background); color: var(--body-text-color); border: 2px solid var(--primary); padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold;"&gt;Invia Messaggio ✈️&lt;/button&gt;
+&lt;/form&gt;
+&lt;style&gt;
+/* Un piccolo tocco di stile per il form scuro/chiaro */
+.contact-form input, .contact-form textarea {
+background: var(--body-background);
+color: var(--body-text-color);
+}
+&lt;/style&gt;</description></item><item><title>Link</title><link>https://iv3jjh.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iv3jjh.github.io/link/</guid><description>&lt;p&gt;Qui trovate un po di tutto, dai miei profili su altri servizi a link di articoli.&lt;/p&gt;</description></item></channel></rss>
