@@ -15,12 +15,12 @@ links:
   - title: Email
     description: Per info generali
     website: mailto:iv3jjh@aritrieste.it
-    image: mail
+    image: "mail.svg"
 
   - title: Telegram
     description: Chat veloce
     website: https://t.me/tuonome
-    image: brand-telegram
+    image: "brand-telegram.svg"
 ---.
 
 ## 📬 Canali di Comunicazione
