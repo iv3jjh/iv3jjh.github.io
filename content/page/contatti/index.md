@@ -49,7 +49,7 @@ Confermo volentieri tutti i QSO. Ecco le mie preferenze per lo scambio delle car
 
 Se non vuoi aprire il client di posta, usa questo modulo. Il messaggio arriverà direttamente alla mia email.
 
-<form action="https://formspree.io/f/IL_TUO_CODICE_FORMSPREE" method="POST" class="contact-form">
+<form action="https://formspree.io/f/xrekzzye" method="POST" class="contact-form">
   <label>
     Il tuo nome:
     <input type="text" name="name" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 5px;">
