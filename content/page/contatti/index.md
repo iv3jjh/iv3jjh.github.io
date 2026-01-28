@@ -15,7 +15,7 @@ links:
   - title: Email
     description: Per info generali
     website: mailto:iv3jjh@aritrieste.it
-    icon: mail
+    image: "mail.svg"
 
   - title: Telegram
     description: Chat veloce
