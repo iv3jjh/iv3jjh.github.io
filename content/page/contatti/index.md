@@ -19,7 +19,7 @@ links:
 
   - title: Telegram
     description: Chat veloce
-    website: https://t.me/@Leo_IV3JJH
+    website: https://t.me/Leo_IV3JJH
     image: "brand-telegram.svg"
 ---.
 
