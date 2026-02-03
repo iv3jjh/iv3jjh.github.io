@@ -2,7 +2,7 @@
 title: Bot Telegram per il DYM
 description: Bot Telegram per la gestione di un evento come il December Yota Month
 slug: bot-telegram
-date: "2026-02-01"
+date: 2026-02-03T19:00:00+01:00
 image: cover.png
 categories:
     - software
