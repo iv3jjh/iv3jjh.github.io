@@ -21,7 +21,7 @@ links:
     description: Chat veloce
     website: https://t.me/Leo_IV3JJH
     image: "brand-telegram.svg"
----.
+---
 
 ## 📬 Canali di Comunicazione
 
