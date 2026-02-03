@@ -24,8 +24,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive # Scarica anche il tema Stack
-          fetch-depth: 0
+         # submodules: recursive # Scarica anche il tema Stack
+          fetch-depth: 1
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
