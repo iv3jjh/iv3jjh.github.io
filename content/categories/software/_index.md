@@ -1,5 +1,5 @@
 ---
-title: Software
+title: software
 description: Progetti di sviluppo software
 image:
 
