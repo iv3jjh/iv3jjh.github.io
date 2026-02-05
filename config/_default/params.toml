@@ -80,11 +80,10 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = "https-iv3jjh-github-io"
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
+    shortname = "https-iv3jjh-github-io"
+    apiKey = ""
+    admin = "leonardo_venturoli"
+    adminLabel = "IV3JJH"
 
 
 [comments.utterances]
