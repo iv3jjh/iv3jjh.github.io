@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "giscus"
 
 [comments.disqus]
 shortname = "https-iv3jjh-github-io"
@@ -128,13 +128,13 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
-lightTheme = ""
-darkTheme = ""
+repo = "iv3jjh/iv3jjh.github.io"
+repoID = "R_kgDOQ9x3kw"
+category = "General"
+categoryID = "DIC_kwDOQ9x3k84C17c6"
+mapping = "pathname"
+lightTheme = "light"
+darkTheme = "dark"
 reactionsEnabled = 1
 emitMetadata = 0
 
