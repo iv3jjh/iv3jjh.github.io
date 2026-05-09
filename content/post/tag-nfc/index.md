@@ -30,6 +30,6 @@ L'idea per realizzare il mio tag era quella di progettare il corpo del tag, mett
 Per progettare il corpo del mio tag ho usato Fusion360, da un lato ho inserito la scritta del mio nominativo e dall'altra un motivo di cerchi concetrici, ma si può realizzare come meglio si vuole.
 ![Fusion360](fusion.png)
 Una volta finita la parte di progettazione ho importato il progetto sul software della mia stampante 3D, dove ho impostato che appena fosse arrivata all'ultimo layer del foro centrale per il tag si fermasse così potevo incollarlo e successivamente finire la stampa. 
-![TAG-NFC](tag-nfc.png)
+![TAG-NFC](tag-nfc.jpg)
 Trovate il link del progetto in fondo alla pagina, dove potete scaricare il file per stampare il tag.
 
